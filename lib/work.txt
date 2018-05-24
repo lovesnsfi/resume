@@ -1,0 +1,55 @@
+杨标
+===========
+
+武汉软帝集团 softeem
+.NET工程师
+前端工程师
+
+
+联系方式
+-----------
+
+* lovesnsfi@163.com
+* 湖北省武汉市江夏区光谷大道金融港
+
+
+工作能力
+-----------
+
+* 精通C#语言，精通.net平台，精通面向对象编程
+* 熟悉各种主流数据库MSSQL，MYSQL，Mongodb
+* 精通winform平台开发，熟练使用asp.net及Asp.Net MVC 进行项目开发，精通B/S架构开发
+* 熟练使用Entity FrameWork进行ORM开发
+* 精通XML,JSON,Linq,Socket,SOAP,多线程等技术
+* 熟练使用Vistual Studio，Eclipse,vim等开发工具，熟练IIS,Nginx布署项目，掌握负载均衡配置
+* 精通HTML、Javascript/JQuery、Json、CSS/Bootstrap；熟悉响应式开发，熟练掌握混合式APP开发
+* 精通SPA单页面开发，精通VueJs框架，熟练掌握ReactJS与AngularJs,熟练ES6语法
+* 熟悉NodeJS平台。能够进行Express，KOA，egg进行MVC开发,熟练使用art-template与ejs模板引擎
+* 掌握前端自动化构建工具webpack/glup,熟练使用sass/less
+* 精通WebApi方式进行开发，熟练进行前后端分离式开发，熟练Ajax跨域原理及配置
+* 精通ODC项目服务外包流程，擅长敏捷流开发，熟练制定开发计划，能精确掌握项目需求
+
+项目经验
+-----------
+
+* 丽岛物业
+* 深铁二号线在线营运
+* 微信小程序项目
+* 企业ERP系统设计与研发
+* ......
+
+擅长方向
+-----------
+
+* asp.net MVC开发方式，EF框架开发
+* 基于WebApi的前后端分离式开发
+* 基于.net Core的跨平台应用开发
+* 基于Electron的跨平台程序开发
+
+
+个人信息
+-----------
+
+* 户口/国籍：武汉
+* 家庭地址：湖北省武汉市江厦区凤凰花园 (邮编：518000)
+* 专业：计算机应用
